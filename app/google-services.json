@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159658140166",
+    "project_id": "week12-firebase",
+    "storage_bucket": "week12-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159658140166:android:f21addca176d3d05241987",
+        "android_client_info": {
+          "package_name": "edu.student.week12firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159658140166-7duhhq1m6gl1uvd7j0td89lgh4hpqd5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLsyGvz2GXeqaLLxGIYSncOXiINYJaDSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159658140166-7duhhq1m6gl1uvd7j0td89lgh4hpqd5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
